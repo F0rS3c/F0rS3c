@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @F0rS3c
 - 👀 I’m interested in Cyber Sec and development 
-- 🌱 I’m currently project my ideas n real life
-
+- 🌱 I’m currently  get my thoughts out to the ground 
 - 📫 How to reach me : ------------------
 
 <!---
