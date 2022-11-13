@@ -1,7 +1,7 @@
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 web 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="https://i.ibb.co/86ncYHN/logo.png" height="30em" align="center" alt="CyS3c" title="CyS3c"/>], [<img src="https://i.ibb.co/GJ2YHMg/ic.gif" height="30em" align="center" alt="GAMA" title="GAMA"/>] and NEWSPROG 
+- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="https://i.ibb.co/J5WQ39m/logo.png" height="30em" align="center" alt="CyS3c" title="CyS3c"/>], [<img src="https://i.ibb.co/GJ2YHMg/ic.gif" height="30em" align="center" alt="GAMA" title="GAMA"/>] and NEWSPROG 
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙷𝚘𝚗𝚘𝚞𝚛𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 
 - 💻 Pentester 
